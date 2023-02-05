@@ -1,3 +1,9 @@
 https://leetcode.com/problems/find-in-mountain-array/submissions/873098652/
 https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/873084809/
 
+https://leetcode.com/problems/find-the-duplicate-number/ -> https://leetcode.com/problems/find-the-duplicate-number/solutions/1892921/9-approaches-count-hash-in-place-marked-sort-binary-search-bit-mask-fast-slow-pointers/
+
+
+
+DP QUES :
+https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go

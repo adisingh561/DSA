@@ -14,6 +14,10 @@ def cyclic_sort(arr:list):
         else :
             i+=1
     return arr
-array = [3,1,0]
+array = [2,1,0]
 
+# def findMax(arr):
+#     max = arr[0]
+#     for i in range(len(arr)):
+#         if arr[i]>
 print(cyclic_sort(array))
