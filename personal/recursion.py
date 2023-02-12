@@ -1,12 +1,9 @@
 #print a func that prints 1-> 5 using recursion
-
 #SIMPLE
 def printn(n):
     print(n)
     if n<10:
         return printn(n+1)
-
-
 # printn(1)
 
 #FIB NOS
@@ -18,7 +15,6 @@ def fib(N):
     return fib(N-1)+fib(N-2)
 
 # BinarySearch
-
 def BS(arr,target,s,e):
     if s>e :
         return -1
@@ -29,4 +25,4 @@ def BS(arr,target,s,e):
         return BS(arr,target,m+1,e)
     return BS(arr,target,s,m-1)
 arr = [1,2,3,4,5,6,7,9,15,22]
-print(BS(arr,11,0,len(arr)-1))
+# print(BS(arr,11,0,len(arr)-1))
