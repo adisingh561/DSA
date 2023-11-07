@@ -38,7 +38,7 @@ class Solution:
 
 
 obj = Solution
-print(obj.Max(self=obj,nums=[6,7,8,9,1,2,3,4,5]))
+# print(obj.Max(self=obj,nums=[6,7,8,9,1,2,3,4,5]))
 
 
 def Max(nums):
@@ -51,4 +51,17 @@ def Max(nums):
         else:
             s=m
     return s
-print(Max([6,7,8,9,1,2,3,4,5]))
+
+def Max1(nums):
+    s=0
+    e=len(nums)-1
+    while (s<=e):
+        m=int(s+(e-s)/2)
+        if nums[m]<=nums[s]:
+            e=m-1
+        else:
+            s=m 
+    return s
+# print(Max([6,7,8,9,1,2,3,4,5]))
+print("I hate what is going on in here but this is damn interesting makes up a nice story for the future")
+print("A drunk uncle and a newly married entitled lady straight outta a small family and into AC1")

@@ -13,3 +13,4 @@ while (i<len(nums)):
         i+=1
         temp = None
     print(i,corr_ind,nums[corr_ind],temp)
+

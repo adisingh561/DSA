@@ -3,6 +3,8 @@ https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/8730848
 
 https://leetcode.com/problems/find-the-duplicate-number/ -> https://leetcode.com/problems/find-the-duplicate-number/solutions/1892921/9-approaches-count-hash-in-place-marked-sort-binary-search-bit-mask-fast-slow-pointers/
 
+SORTING :
+timsort : https://www.geeksforgeeks.org/timsort/
 
 
 DP QUES :
