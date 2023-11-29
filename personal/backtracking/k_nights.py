@@ -1,0 +1,1 @@
+#Same as N-queens but movement is different
